@@ -56,3 +56,10 @@ else:
   ("소수가 아닙니다")출력하기
 }
 ```
+## 3. 사용법
+```python
+import kor_grammer
+
+한글_처리기 = kor_grammer.Grammer('코드')
+한글_처리기.tokenize()
+```
