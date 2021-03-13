@@ -16,10 +16,10 @@ print("Hello, world!")
 
 `grammer.py`를 수정하여 본인만의 프로그래밍 언어를 설계할수도 있습니다.
 
-|개발|패키징|
-|------|---|
+|개발|
+|------|
 |<img width="30" alt="프사" src="https://user-images.githubusercontent.com/79962463/110963080-027c5300-8395-11eb-87f0-ffa2375c0b4e.png">
-[locha](https://github.com/advxenon)|📦|
+[locha](https://github.com/advxenon)|
 
 
 ## 2. 예시
