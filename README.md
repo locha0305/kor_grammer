@@ -21,6 +21,10 @@ print("Hello, world!")
 |<img width="30" alt="프사" src="https://user-images.githubusercontent.com/79962463/110963080-027c5300-8395-11eb-87f0-ffa2375c0b4e.png">
 [locha](https://github.com/advxenon)|
 
+`readme.md` 파일에서는 이 언어 툴을 활용한 개발은 다루지 않습니다.
+
+개발에 관련된 내용은 `wiki` 항목을 참조하십시오.
+
 
 ## 2. 예시
 
@@ -71,4 +75,4 @@ import kor_grammer
 ```
 
 
-### 2021년 한글날에 공개 예정
+
