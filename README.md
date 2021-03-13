@@ -12,14 +12,8 @@ print("Hello, world!")
 ("안녕, 세상!")출력
 ```
 
-
-
 `grammer.py`를 수정하여 본인만의 프로그래밍 언어를 설계할수도 있습니다.
 
-|개발|
-|------|
-|<img width="30" alt="프사" src="https://user-images.githubusercontent.com/79962463/110963080-027c5300-8395-11eb-87f0-ffa2375c0b4e.png">
-[locha](https://github.com/advxenon)|
 
 `readme.md` 파일에서는 이 언어 툴을 활용한 개발은 다루지 않습니다.
 
